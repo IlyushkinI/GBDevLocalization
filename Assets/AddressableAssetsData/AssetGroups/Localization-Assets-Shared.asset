@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ad5b668d8bbf9fe4087f11d4a38994d2
+  m_SerializeEntries:
+  - m_GUID: 5a9530e60ca4e8947ae405eadc15b37f
+    m_Address: Assets/Tables/Phrase Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 18db29ca8ce5e5d46b79597e9df58fd7
+    m_Address: Assets/Tables/Sprite Table Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 588f8f056715d5843ba19a4cb15ea41a
+    m_Address: Assets/Tables/Ui/Ui Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 972280bc4d8f4aa4db2271e5112e8188
+    m_Address: Assets/Tables/asset_ui Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 75e7f1700e463c8448c114a03ab42ce0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5a8c10b5c13cecb4d8fc59758ebb320e, type: 2}
+    - {fileID: 11400000, guid: 855cfc0e40ed3ac41b6b23cb7f2fc6b5, type: 2}
